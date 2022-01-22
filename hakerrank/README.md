@@ -10,3 +10,6 @@ There are solutions for the following HakerRank problems:
 [Select All ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Select_All.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/select-all-sql/problem)
 
 
+[Select By ID ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Select_By_ID.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/select-by-id/problem)
+
+
