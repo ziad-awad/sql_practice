@@ -13,3 +13,7 @@ There are solutions for the following HakerRank problems:
 [Select By ID ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Select_By_ID.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/select-by-id/problem)
 
 
+[Japanese Cities' Attributes ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Japanese_Cities'_Attributes.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)
+
+
+
