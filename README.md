@@ -2,7 +2,7 @@
 It includes solutions to both practice and contest problems from:
 
 
-[HakerRank](https://github.com/ziad-awad/competitive-programming/blob/main/hakerrank/README.md)  [(Site)](https://www.hackerrank.com/)
+[HakerRank](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/README.md)  [(Site)](https://www.hackerrank.com/)
 
 
 
