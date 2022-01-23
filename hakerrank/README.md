@@ -16,4 +16,7 @@ There are solutions for the following HakerRank problems:
 [Japanese Cities' Attributes ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Japanese_Cities'_Attributes.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)
 
 
+[Weather Observation Station 1 ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Weather_Observation_Station_1.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)
+
+
 
