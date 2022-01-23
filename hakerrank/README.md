@@ -19,4 +19,8 @@ There are solutions for the following HakerRank problems:
 [Weather Observation Station 1 ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Weather_Observation_Station_1.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)
 
 
+[Weather Observation Station 3 ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Weather_Observation_Station_3.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
+
+
+
 
