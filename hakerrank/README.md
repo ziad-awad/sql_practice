@@ -22,5 +22,8 @@ There are solutions for the following HakerRank problems:
 [Weather Observation Station 3 ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Weather_Observation_Station_3.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)
 
 
+[Weather Observation Station 4 ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Weather_Observation_Station_4.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)
+
+
 
 
