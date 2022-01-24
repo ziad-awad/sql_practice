@@ -25,5 +25,8 @@ There are solutions for the following HakerRank problems:
 [Weather Observation Station 4 ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Weather_Observation_Station_4.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)
 
 
+[Japanese Cities' Names ](https://github.com/ziad-awad/sql_practice/blob/main/hakerrank/Japanese_Cities'_Names.sql)   [(Problem Site)](https://www.hackerrank.com/challenges/japanese-cities-name/problem)
+
+
 
 
